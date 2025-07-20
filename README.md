@@ -1,5 +1,7 @@
 # One2Touch Keyboard Hack
 
+![One2Touch Keyboard Module](images/20250720_211616%20(2).jpg)
+
 ## 프로젝트 개요
 
 이 프로젝트는 타오바오에서 구입한 One2Touch 터치 키보드 모듈을 분석하고 역공학을 통해 설계를 이해하며, 커스터마이징 및 해킹을 목적으로 하는 프로젝트입니다.
